@@ -3,7 +3,7 @@ SpringAngularEcommerce is a shopping cart application developed as a pet project
 
 This project is still in development.
 
-<!-- Code for Angular app: https://github.com/shardwiz/NgSpringShoppingStore-frontend -->
+<!-- Code for Angular app: https://github.com/shardwiz/spring-ecommerce-frontend -->
 
 #Features
 - Token Based User Authentication(JWT)
@@ -27,25 +27,25 @@ This project is still in development.
 #Images of Application:
 1. Home Page
 
-![Home Page](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/homepage.PNG)
+![Home Page](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/homepage.PNG)
 
 2. Category Page
 
-![Category Page](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/category-page.PNG)
+![Category Page](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/category-page.PNG)
 
 3. Category Page With Filters
 
-![Category Page With Filters](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/category-page-with-filters.PNG)
+![Category Page With Filters](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/category-page-with-filters.PNG)
 
 4. Product Page
 
-![Product Page](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/product-page.PNG)
+![Product Page](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/product-page.PNG)
 
 5. Product Page - Review Section
 
-![Product Page Review Section](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/product-page-review-section.PNG)
+![Product Page Review Section](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/product-page-review-section.PNG)
 
 6. Search Page
-![Search Page](https://github.com/shardwiz/NgSpringShoppingStore/blob/master/src/main/resources/images/search-page.PNG)
+![Search Page](https://github.com/shardwiz/spring-ecommerce/blob/master/src/main/resources/images/search-page.PNG)
 
 
